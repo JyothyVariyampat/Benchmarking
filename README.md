@@ -26,3 +26,15 @@ AID1239: https://pubchem.ncbi.nlm.nih.gov/bioassay/1239
 AID1578: https://pubchem.ncbi.nlm.nih.gov/bioassay/1578
 AID1259354: https://pubchem.ncbi.nlm.nih.gov/bioassay/1259354
 
+# Configuration
+Google Colab
+Python 3
+Tensorflow
+RDKit
+Optuna
+Matplotlib
+
+ML-models- CPU
+DL models- GPU A100/ H100
+
+
