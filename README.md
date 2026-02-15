@@ -1,5 +1,5 @@
 # Benchmarking
-Benchmarking ML and DL models for bioactivity prediction
+Bridging Predictive Reliability and Explainability: A Multi-Representation Deep Learning Framework for Chemical Space Analysis of Immune Bioassays
 # Overview
 This repository provides a computational framework for predicting molecular bioactivity against specific biological targets using Machine Learning (ML) and Deep Learning (DL) 
 models. The framework supports multiple molecular representations, including descriptor-based, image-based, and graph-based inputs, and integrates explainability methods to 
