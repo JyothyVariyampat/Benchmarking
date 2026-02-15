@@ -8,9 +8,13 @@ The primary objective is to enable reliable virtual screening of chemical librar
 
 # Objectives of the Study
 Predict active vs inactive molecules for specific bioassay targets.
+
 Benchmark ML and DL architectures across multiple molecular representations.
+
 Integrate explainability (e.g., Concept-based or feature attribution approaches).
+
 Enable reproducible evaluation using standardized validation protocols.
+
 
 # Data
 The data used for the study is available from the publicly available PubChem database.
